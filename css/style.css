@@ -256,15 +256,22 @@ html{
     text-align:center;
   }
 }
-@media(min-width:913px)and(max-width:1200px){
+@media(min-width:913px) and (max-width:1200px){
+  #home-info {
+    height: auto;
+  }
+
+
   #home-info .info-img {
-   display: 30%;
+   width: 30%;
+   height: auto;
     
   }
   
   
   #home-info .info-content {
     width: 70%;
+    
     
   }
 
