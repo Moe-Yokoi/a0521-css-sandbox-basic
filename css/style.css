@@ -258,7 +258,7 @@ html{
 }
 @media(min-width:913px)and(max-width:1200px){
   #home-info .info-img {
-   display: none;
+   display: 30%;
     
   }
   
